@@ -108,7 +108,7 @@ int main (void)
       if (board[i] != 0)
 	cout << board[i];
 
-    cout << " in " << turn_ct << " turns... wow that sucked \n \n";
+    cout << " in " << turn_ct << " turns... :( \n \n";
   }//else
   cout << "exit: main\n";
   return 0;
