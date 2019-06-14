@@ -9,6 +9,10 @@ This will be a simulation of the game, Shut the Box.
 StB is a literal box with 2 dice and a set of tabs
 numbered 1-9 on a rack within the box.
 
+For a general description with many variants, see:
+https://en.wikipedia.org/wiki/Shut_the_Box
+
+For this version:
 The object of the game is to flip all tabs down 
 and shut the box. A player starts out with all tabs up
 [1] [2] [3] [4] [5] [6] [7] [8] [9] 
